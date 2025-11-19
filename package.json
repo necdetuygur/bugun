@@ -1,0 +1,29 @@
+{
+  "name": "bugun",
+  "version": "1.0.8",
+  "description": "Create today txt file.",
+  "main": "index.js",
+  "bin": {
+    "bugun": "bin/bugun"
+  },
+  "scripts": {
+    "lint": "eslint lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/necdetuygur/bugun.git"
+  },
+  "keywords": [
+    "bugün",
+    "bugun",
+    "today",
+    "txt"
+  ],
+  "author": "Necdet UYGUR <necdet.uygur@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/necdetuygur/bugun/issues"
+  },
+  "homepage": "https://github.com/necdetuygur/bugun#readme"
+}
